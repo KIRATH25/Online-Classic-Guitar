@@ -4,12 +4,14 @@ Play. Strum. Create. Master Your Six Strings Like Never Before!
 
 <div align="center">
 🎼 Welcome to the Ultimate Online Guitar Playground 🎼
-  [**Click Here**](https://arogranitya.vercel.app/)
 Crafted with ❤️ | Built for Musicians & Web Dev Enthusiasts
 
 🌐 Live Demo • 📖 Documentation • 🚀 Get Started • 💡 Features • 🎓 Learn More
 
 </div>
+
+Live Demo:[**Click Here**](https://arogranitya.vercel.app/)
+
 🌟 Why This Guitar Tuner?
 ✅ Zero Dependencies - Pure vanilla code, lightning-fast loading
 ✅ Two Guitar Modes - Switch between Classic & Electric instantly
