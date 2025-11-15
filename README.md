@@ -10,7 +10,7 @@ Crafted with ❤️ | Built for Musicians & Web Dev Enthusiasts
 
 </div>
 
-Live Demo:[**Click Here**](https://arogranitya.vercel.app/)
+Live Demo:[**Click Here**]([https://arogranitya.vercel.app/](https://vercel.com/kirath25s-projects/guitar-by-kirath/77DHefx6nzXwD38H2DUd89hnaCB2))
 
 🌟 Why This Guitar Tuner?
 ✅ Zero Dependencies - Pure vanilla code, lightning-fast loading
