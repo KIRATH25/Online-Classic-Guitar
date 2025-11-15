@@ -1,58 +1,25 @@
-🎸 Guitar Tuner - Interactive Web Experience
-A beautifully crafted, interactive guitar tuner web application with dual guitar modes, realistic sound simulation, and immersive visual feedback. Built with vanilla JavaScript, HTML5, and CSS3.
+🎸 KIRATH KUMAR'S GUITAR TUNER 🎸
+✨ An Interactive, Immersive Guitar Tuner Web Experience ✨
+Play. Strum. Create. Master Your Six Strings Like Never Before!
 
-🌟 Showcase
-Live Experience Your Guitar Like Never Before:
-[**Click Here**](https://arogranitya.vercel.app/)
+<div align="center">
+🎼 Welcome to the Ultimate Online Guitar Playground 🎼
+  [**Click Here**](https://arogranitya.vercel.app/)
+Crafted with ❤️ | Built for Musicians & Web Dev Enthusiasts
 
-🎼 Dual Guitar Modes: Switch seamlessly between Classic and Electric guitar tones
+🌐 Live Demo • 📖 Documentation • 🚀 Get Started • 💡 Features • 🎓 Learn More
 
-🎵 High-Quality Audio: Authentic guitar string frequencies with realistic playback
+</div>
+🌟 Why This Guitar Tuner?
+✅ Zero Dependencies - Pure vanilla code, lightning-fast loading
+✅ Two Guitar Modes - Switch between Classic & Electric instantly
+✅ Studio-Quality Tones - High-fidelity audio from professional CDN
+✅ Smooth Animations - Realistic string vibrations & visual effects
+✅ Fully Responsive - Works perfectly on desktop, tablet, mobile
+✅ Beautiful UI/UX - Modern dark theme with glowing effects
+✅ Open Source - MIT Licensed, contributions welcome!
 
-✨ Immersive Animations: Dynamic string vibrations, particle effects, and visual feedback
-
-🎯 Responsive Design: Fully optimized for desktop, tablet, and mobile devices
-
-🚀 Zero Dependencies: Pure vanilla code—no frameworks, no build tools required
-
-🎨 Modern UI/UX: Sleek dark theme with glowing effects and intuitive controls
-
-📋 Table of Contents
-Features
-
-Quick Start
-
-How It Works
-
-Audio Tones & Sources
-
-Project Structure
-
-Usage Guide
-
-Customization
-
-Contributing
-
-License
-
-Credits
-
-✨ Features
-Core Functionality
-String Selection: Click or hover over any of the 6 strings (E, A, D, G, B, E) to play individual notes
-
-Guitar Mode Toggle: Instantly switch between Classic (warm acoustic tones) and Electric (bright digital tones) without page reload
-
-Interactive Pick: Optional animated guitar pick that follows your mouse for realistic plucking simulation
-
-Volume Control: Sleek slider interface to adjust playback volume in real-time
-
-Hold & Sustain: Continuous loop playback for practicing chord progressions and arpeggios
-
-Stop Function: Instantly stop all sound with a single click
-
-Visual Excellence
-String Vibration Animation: Realistic string oscillation when played, using CSS keyframe animations
-
-**Glowing Note Indicators
+Feature	Description	Icon
+6 String Selection	Click/hover any string (E-A-D-G-B-E) to play	🎵
+Dual Guitar Modes	Toggle between Classic (Acoustic) & Electric instantly	🎸⚡
+Real-Time Volume Control	Smooth slider for volume adjustment 0-100%
